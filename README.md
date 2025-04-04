@@ -83,7 +83,7 @@ ai-chatbot-with-memory/
 
 🌟 Credits
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Kurshid Shaik
 Powered by Ollama, Streamlit, and your local CPU/GPU.
 
 ⸻
